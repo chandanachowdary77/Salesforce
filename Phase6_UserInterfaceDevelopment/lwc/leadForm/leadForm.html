@@ -1,0 +1,9 @@
+<template>
+    <lightning-card title="Create Lead" icon-name="standard:lead">
+        <div class="slds-p-around_medium">
+            <lightning-input label="Name" value={name} onchange={handleChange}></lightning-input>
+            <lightning-input label="Email" value={email} onchange={handleChange}></lightning-input>
+            <lightning-button label="Submit" variant="brand" onclick={handleSubmit}></lightning-button>
+        </div>
+    </lightning-card>
+</template>
