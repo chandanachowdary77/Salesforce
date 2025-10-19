@@ -1,0 +1,5 @@
+Role	Permissions
+Admin	Full Access
+Sales Manager	View/Edit all Leads, View Reports, Manage Dashboards
+Sales Executive	Create/Edit Own Leads, View Assigned Reports
+Marketing	Read-only Access to Leads and Reports

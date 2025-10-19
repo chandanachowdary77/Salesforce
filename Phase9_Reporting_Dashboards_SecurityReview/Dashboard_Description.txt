@@ -1,0 +1,8 @@
+Lead Performance Dashboard:
+- Components:
+  - Total Leads by Source (Bar Chart)
+  - Conversion Rate Over Time (Line Chart)
+  - Top Performing Sales Rep (Donut Chart)
+  - Monthly New Leads (Stacked Column Chart)
+- Filters: Region, Lead Owner, Month
+- Visibility: Sales Manager and Reps only.
